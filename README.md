@@ -5,7 +5,7 @@ Passionate about robotics! Open-source enthusiast! Always looking for learning n
 - 🔭 I’m currently working on [BIR's](https://github.com/Brazilian-Institute-of-Robotics) (formal job) and [ORise's](https://github.com/orise-robotics) (hobby) projects
 - 🌱 I’m currently learning [ros2](https://index.ros.org/doc/ros2/)
 - 💬 Ask me about anything [here](https://github.com/mateus-amarante/mateus-amarante/issues)
-- 📫 How to reach me: [e-mail](mateus.amarujo@gmail.com) or [LinkedIn](https://www.linkedin.com/in/mateus-amarante-araujo/)
+- 📫 How to reach me: mateus.amarujo@gmail.com | [LinkedIn](https://www.linkedin.com/in/mateus-amarante-araujo/)
 
 #### My GitHub Activity
 
