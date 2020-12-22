@@ -7,7 +7,7 @@ Passionate about robotics! Open-source enthusiast! Always looking for learning n
 - 💬 Ask me about anything [here](https://github.com/mateus-amarante/mateus-amarante/issues)
 - 📫 How to reach me: mateus.amarujo@gmail.com | [LinkedIn](https://www.linkedin.com/in/mateus-amarante-araujo/)
 
-![Anurag's github stats](https://github-readme-stats-sigma-sepia.vercel.app/api?count_private=true&username=mateus-amarante&hide=stars)
+![Anurag's github stats](https://github-readme-stats-sigma-sepia.vercel.app/api?count_private=true&username=mateus-amarante)
 
 [![Top Langs](https://github-readme-stats-sigma-sepia.vercel.app/api/top-langs/?username=mateus-amarante&hide=javascript,java,c,matlab&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
