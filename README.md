@@ -2,7 +2,7 @@
 
 Passionate about robotics! Open-source enthusiast! Always looking for learning new things!
 
-- 🔭 I’m currently working on [BIR](https://github.com/Brazilian-Institute-of-Robotics) (formal job)
+- 🔭 I’m currently working on [BIR](https://github.com/Brazilian-Institute-of-Robotics)
 - 🌱 I’m currently learning [ros2](https://index.ros.org/doc/ros2/)
 - 💬 Ask me about anything [here](https://github.com/mateus-amarante/mateus-amarante/issues)
 - 📫 How to reach me: mateus.amarujo@gmail.com | [LinkedIn](https://www.linkedin.com/in/mateus-amarante-araujo/)
