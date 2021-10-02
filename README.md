@@ -9,11 +9,12 @@ Passionate about robotics! Open-source enthusiast! Always looking for learning n
 <!-- - 💬 Ask me about anything [here](https://github.com/mateus-amarante/mateus-amarante/issues) -->
 <!-- - 📫 How to reach me: mateus.amarujo@gmail.com | [LinkedIn](https://www.linkedin.com/in/mateus-amarante-araujo/) -->
 
-<!-- ![Anurag's github stats](https://github-readme-stats-sigma-sepia.vercel.app/api?count_private=true&username=mateus-amarante)
+![Anurag's github stats](https://github-readme-stats-tan-six.vercel.app/api?count_private=true&username=mateus-amarante)
 
-[![Top Langs](https://github-readme-stats-sigma-sepia.vercel.app/api/top-langs/?username=mateus-amarante&hide=javascript,java,c,matlab&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-tan-six.vercel.app/api/top-langs/?username=mateus-amarante&&exclude_repo=github-readme-stats&hide=java&layout=compact&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
 
-_Credits to [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) for this wonderful dashboard_ -->
+<!-- [![willianrod's wakatime stats](https://github-readme-stats-tan-six.vercel.app/api/wakatime?username=mateusamarante)](https://github.com/mateus-amarante/github-readme-stats) -->
+
 
 <!--
 **mateus-amarante/mateus-amarante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
