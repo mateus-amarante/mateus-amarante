@@ -2,8 +2,6 @@
 
 Passionate about robotics! Open-source enthusiast! Always looking for learning new things!
 
-📫 [LinkedIn](https://www.linkedin.com/in/mateus-amarante-araujo/)
-
 <!-- - 🔭 I’m currently working on projects in [BIR](https://github.com/Brazilian-Institute-of-Robotics) and [ORise](https://github.com/orise-robotics) organizations -->
 <!-- - 🌱 I’m currently studying deep learning -->
 <!-- - 💬 Ask me about anything [here](https://github.com/mateus-amarante/mateus-amarante/issues) -->
